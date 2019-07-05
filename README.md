@@ -10,7 +10,7 @@ This tool is developed in python3 for educational purpose only. This tool aims t
 
 ## HOW TO INSTALL
 - Enter below command in terminal:
-  - git clone https://github.com/Guptaji18/crypto
+  - git clone https://github.com/Guptaji18/crypto.git
 - Now Enter this:
   - cd crypto
 - Run using command:
