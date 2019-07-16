@@ -2,7 +2,7 @@
 
 
 print('\n\n#################################################')
-print('******MADE BY : SHIKHAR GUPTA******')
+print('*************MADE BY : SHIKHAR GUPTA**************')
 print('********** TEXT ENCRYPTOR OR DECRYPTOR ***********')
 
 print('#################################################\n\n')
