@@ -14,7 +14,7 @@ This tool is developed in python3 for educational purpose only. This tool aims t
   - Rail-Fence Cipher
   - Brainfu*k
   
- - Decrypt text or String
+- Decrypt text or String
   - ROT13 Cipher
   - Affine Cipher
   - Transposition Cipher
