@@ -8,19 +8,19 @@ print('********** TEXT ENCRYPTOR OR DECRYPTOR ***********')
 print('#################################################\n\n')
 
 import string
-from cipher.rot13 import *
-from cipher.vigenere import *
-from cipher.atbash import *
-from cipher.railfence import *
-from cipher.Affine import *
-from cipher.Transposing import *
-from cipher.bff import *
-from d_cipher.d_rot13 import *
-from d_cipher.d_vigenere import *
-from d_cipher.d_atbash import *
-from d_cipher.d_railfence import *
-from d_cipher.d_Affine import *
-from d_cipher.d_transposition import *
+from ciphers.rot13 import *
+from ciphers.vigenere import *
+from ciphers.atbash import *
+from ciphers.railfence import *
+from ciphers.Affine import *
+from ciphers.Transposing import *
+from ciphers.bff import *
+from decipher.d_rot13 import *
+from decipher.d_vigenere import *
+from decipher.d_atbash import *
+from decipher.d_railfence import *
+from decipher.d_Affine import *
+from decipher.d_transposition import *
 
 global table
 table = {}
