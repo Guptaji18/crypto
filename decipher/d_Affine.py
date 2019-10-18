@@ -18,8 +18,7 @@ def modinv(a, m):
 
 
 
-def affine_decrypt(cipher, key): 
-
+def affine_decrypt(cipher):
+	key = [17,20]
 	return ''.join([ chr((( modinv(key[0], 26)*(ord(c) - ord('A') - key[1])) 
 					% 26) + ord('A')) for c in cipher ]) 
-
